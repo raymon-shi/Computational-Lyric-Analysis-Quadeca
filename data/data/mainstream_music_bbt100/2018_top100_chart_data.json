@@ -1,0 +1,502 @@
+[
+    {
+        "rank": "1",
+        "title": "God's Plan",
+        "artist": "Drake"
+    },
+    {
+        "rank": "2",
+        "title": "Perfect",
+        "artist": "Ed Sheeran"
+    },
+    {
+        "rank": "3",
+        "title": "Meant to Be",
+        "artist": "Bebe Rexha featuring Florida Georgia Line"
+    },
+    {
+        "rank": "4",
+        "title": "Havana",
+        "artist": "Camila Cabello featuring Young Thug"
+    },
+    {
+        "rank": "5",
+        "title": "Rockstar",
+        "artist": "Post Malone featuring 21 Savage"
+    },
+    {
+        "rank": "6",
+        "title": "Psycho",
+        "artist": "Post Malone featuring Ty Dolla Sign"
+    },
+    {
+        "rank": "7",
+        "title": "I Like It",
+        "artist": "Cardi B, Bad Bunny and J Balvin"
+    },
+    {
+        "rank": "8",
+        "title": "The Middle",
+        "artist": "Zedd, Maren Morris and Grey"
+    },
+    {
+        "rank": "9",
+        "title": "In My Feelings",
+        "artist": "Drake"
+    },
+    {
+        "rank": "10",
+        "title": "Girls Like You",
+        "artist": "Maroon 5 featuring Cardi B"
+    },
+    {
+        "rank": "11",
+        "title": "Nice for What",
+        "artist": "Drake"
+    },
+    {
+        "rank": "12",
+        "title": "Lucid Dreams",
+        "artist": "Juice Wrld"
+    },
+    {
+        "rank": "13",
+        "title": "Better Now",
+        "artist": "Post Malone"
+    },
+    {
+        "rank": "14",
+        "title": "Finesse",
+        "artist": "Bruno Mars featuring Cardi B"
+    },
+    {
+        "rank": "15",
+        "title": "Boo'd Up",
+        "artist": "Ella Mai"
+    },
+    {
+        "rank": "16",
+        "title": "New Rules",
+        "artist": "Dua Lipa"
+    },
+    {
+        "rank": "17",
+        "title": "Sad!",
+        "artist": "XXXTentacion"
+    },
+    {
+        "rank": "18",
+        "title": "Never Be the Same",
+        "artist": "Camila Cabello"
+    },
+    {
+        "rank": "19",
+        "title": "Love Lies",
+        "artist": "Khalid and Normani"
+    },
+    {
+        "rank": "20",
+        "title": "No Tears Left to Cry",
+        "artist": "Ariana Grande"
+    },
+    {
+        "rank": "21",
+        "title": "Mine",
+        "artist": "Bazzi"
+    },
+    {
+        "rank": "22",
+        "title": "Thunder",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "rank": "23",
+        "title": "Look Alive",
+        "artist": "BlocBoy JB featuring Drake"
+    },
+    {
+        "rank": "24",
+        "title": "Delicate",
+        "artist": "Taylor Swift"
+    },
+    {
+        "rank": "25",
+        "title": "Yes Indeed",
+        "artist": "Lil Baby and Drake"
+    },
+    {
+        "rank": "26",
+        "title": "Friends",
+        "artist": "Marshmello and Anne-Marie"
+    },
+    {
+        "rank": "27",
+        "title": "Bad at Love",
+        "artist": "Halsey"
+    },
+    {
+        "rank": "28",
+        "title": "Taste",
+        "artist": "Tyga featuring Offset"
+    },
+    {
+        "rank": "29",
+        "title": "Let You Down",
+        "artist": "NF"
+    },
+    {
+        "rank": "30",
+        "title": "No Limit",
+        "artist": "G-Eazy featuring ASAP Rocky and Cardi B"
+    },
+    {
+        "rank": "31",
+        "title": "Fefe",
+        "artist": "6ix9ine featuring Nicki Minaj and Murda Beatz"
+    },
+    {
+        "rank": "32",
+        "title": "Tequila",
+        "artist": "Dan + Shay"
+    },
+    {
+        "rank": "33",
+        "title": "Feel It Still",
+        "artist": "Portugal. The Man"
+    },
+    {
+        "rank": "34",
+        "title": "MotorSport",
+        "artist": "Migos, Nicki Minaj and Cardi B"
+    },
+    {
+        "rank": "35",
+        "title": "I Like Me Better",
+        "artist": "Lauv"
+    },
+    {
+        "rank": "36",
+        "title": "Youngblood",
+        "artist": "5 Seconds of Summer"
+    },
+    {
+        "rank": "37",
+        "title": "Whatever It Takes",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "rank": "38",
+        "title": "Ric Flair Drip",
+        "artist": "Offset and Metro Boomin"
+    },
+    {
+        "rank": "39",
+        "title": "I Fall Apart",
+        "artist": "Post Malone"
+    },
+    {
+        "rank": "40",
+        "title": "Pray for Me",
+        "artist": "The Weeknd and Kendrick Lamar"
+    },
+    {
+        "rank": "41",
+        "title": "Back to You",
+        "artist": "Selena Gomez"
+    },
+    {
+        "rank": "42",
+        "title": "Sicko Mode",
+        "artist": "Travis Scott"
+    },
+    {
+        "rank": "43",
+        "title": "Walk It Talk It",
+        "artist": "Migos featuring Drake"
+    },
+    {
+        "rank": "44",
+        "title": "Gucci Gang",
+        "artist": "Lil Pump"
+    },
+    {
+        "rank": "45",
+        "title": "Him & I",
+        "artist": "G-Eazy and Halsey"
+    },
+    {
+        "rank": "46",
+        "title": "In My Blood",
+        "artist": "Shawn Mendes"
+    },
+    {
+        "rank": "47",
+        "title": "All the Stars",
+        "artist": "Kendrick Lamar and SZA"
+    },
+    {
+        "rank": "48",
+        "title": "Stir Fry",
+        "artist": "Migos"
+    },
+    {
+        "rank": "49",
+        "title": "Too Good at Goodbyes",
+        "artist": "Sam Smith"
+    },
+    {
+        "rank": "50",
+        "title": "Love",
+        "artist": "Kendrick Lamar featuring Zacari"
+    },
+    {
+        "rank": "51",
+        "title": "This Is America",
+        "artist": "Childish Gambino"
+    },
+    {
+        "rank": "52",
+        "title": "Nonstop",
+        "artist": "Drake"
+    },
+    {
+        "rank": "53",
+        "title": "Heaven",
+        "artist": "Kane Brown"
+    },
+    {
+        "rank": "54",
+        "title": "Bodak Yellow",
+        "artist": "Cardi B"
+    },
+    {
+        "rank": "55",
+        "title": "Freaky Friday",
+        "artist": "Lil Dicky featuring Chris Brown"
+    },
+    {
+        "rank": "56",
+        "title": "Gummo",
+        "artist": "6ix9ine"
+    },
+    {
+        "rank": "57",
+        "title": "Plug Walk",
+        "artist": "Rich the Kid"
+    },
+    {
+        "rank": "58",
+        "title": "Wait",
+        "artist": "Maroon 5"
+    },
+    {
+        "rank": "59",
+        "title": "Be Careful",
+        "artist": "Cardi B"
+    },
+    {
+        "rank": "60",
+        "title": "Wolves",
+        "artist": "Selena Gomez and Marshmello"
+    },
+    {
+        "rank": "61",
+        "title": "Bartier Cardi",
+        "artist": "Cardi B featuring 21 Savage"
+    },
+    {
+        "rank": "62",
+        "title": "God Is a Woman",
+        "artist": "Ariana Grande"
+    },
+    {
+        "rank": "63",
+        "title": "Big Bank",
+        "artist": "YG featuring 2 Chainz, Nicki Minaj and Big Sean"
+    },
+    {
+        "rank": "64",
+        "title": "Sorry Not Sorry",
+        "artist": "Demi Lovato"
+    },
+    {
+        "rank": "65",
+        "title": "How Long",
+        "artist": "Charlie Puth"
+    },
+    {
+        "rank": "66",
+        "title": "Lights Down Low",
+        "artist": "Max featuring Gnash"
+    },
+    {
+        "rank": "67",
+        "title": "Young Dumb & Broke",
+        "artist": "Khalid"
+    },
+    {
+        "rank": "68",
+        "title": "One Kiss",
+        "artist": "Calvin Harris and Dua Lipa"
+    },
+    {
+        "rank": "69",
+        "title": "Natural",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "rank": "70",
+        "title": "You Make It Easy",
+        "artist": "Jason Aldean"
+    },
+    {
+        "rank": "71",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+    },
+    {
+        "rank": "72",
+        "title": "I Get the Bag",
+        "artist": "Gucci Mane featuring Migos"
+    },
+    {
+        "rank": "73",
+        "title": "No Brainer",
+        "artist": "DJ Khaled featuring Justin Bieber, Chance the Rapper and Quavo"
+    },
+    {
+        "rank": "74",
+        "title": "Plain Jane",
+        "artist": "ASAP Ferg featuring Nicki Minaj"
+    },
+    {
+        "rank": "75",
+        "title": "Sky Walker",
+        "artist": "Miguel featuring Travis Scott"
+    },
+    {
+        "rank": "76",
+        "title": "Marry Me",
+        "artist": "Thomas Rhett"
+    },
+    {
+        "rank": "77",
+        "title": "Eastside",
+        "artist": "Benny Blanco, Halsey and Khalid"
+    },
+    {
+        "rank": "78",
+        "title": "Call Out My Name",
+        "artist": "The Weeknd"
+    },
+    {
+        "rank": "79",
+        "title": "King's Dead",
+        "artist": "Jay Rock, Kendrick Lamar, Future and James Blake"
+    },
+    {
+        "rank": "80",
+        "title": "Happier",
+        "artist": "Marshmello and Bastille"
+    },
+    {
+        "rank": "81",
+        "title": "Te Bot\u00e9",
+        "artist": "Nio Garc\u00eda, Darell and Casper M\u00e1gico featuring Bad Bunny, Nicky Jam and Ozuna"
+    },
+    {
+        "rank": "82",
+        "title": "Simple",
+        "artist": "Florida Georgia Line"
+    },
+    {
+        "rank": "83",
+        "title": "Lemon",
+        "artist": "N.E.R.D and Rihanna"
+    },
+    {
+        "rank": "84",
+        "title": "1-800-273-8255",
+        "artist": "Logic featuring Alessia Cara and Khalid"
+    },
+    {
+        "rank": "85",
+        "title": "Say Something",
+        "artist": "Justin Timberlake featuring Chris Stapleton"
+    },
+    {
+        "rank": "86",
+        "title": "I'm Upset",
+        "artist": "Drake"
+    },
+    {
+        "rank": "87",
+        "title": "Get Along",
+        "artist": "Kenny Chesney"
+    },
+    {
+        "rank": "88",
+        "title": "Moonlight",
+        "artist": "XXXTentacion"
+    },
+    {
+        "rank": "89",
+        "title": "What Lovers Do",
+        "artist": "Maroon 5 featuring SZA"
+    },
+    {
+        "rank": "90",
+        "title": "X",
+        "artist": "Nicky Jam and J Balvin"
+    },
+    {
+        "rank": "91",
+        "title": "Outside Today",
+        "artist": "YoungBoy Never Broke Again"
+    },
+    {
+        "rank": "92",
+        "title": "Trip",
+        "artist": "Ella Mai"
+    },
+    {
+        "rank": "93",
+        "title": "Dura",
+        "artist": "Daddy Yankee"
+    },
+    {
+        "rank": "94",
+        "title": "Changes",
+        "artist": "XXXTentacion"
+    },
+    {
+        "rank": "95",
+        "title": "Mercy",
+        "artist": "Brett Young"
+    },
+    {
+        "rank": "96",
+        "title": "One Number Away",
+        "artist": "Luke Combs"
+    },
+    {
+        "rank": "97",
+        "title": "Powerglide",
+        "artist": "Rae Sremmurd featuring Juicy J"
+    },
+    {
+        "rank": "98",
+        "title": "IDGAF",
+        "artist": "Dua Lipa"
+    },
+    {
+        "rank": "99",
+        "title": "Mi Gente",
+        "artist": "J Balvin and Willy William featuring Beyonc\u00e9"
+    },
+    {
+        "rank": "100",
+        "title": "Believer",
+        "artist": "Imagine Dragons"
+    }
+]

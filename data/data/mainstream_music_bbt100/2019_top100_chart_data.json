@@ -1,0 +1,502 @@
+[
+    {
+        "rank": "1",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X featuring Billy Ray Cyrus"
+    },
+    {
+        "rank": "2",
+        "title": "Sunflower",
+        "artist": "Post Malone and Swae Lee"
+    },
+    {
+        "rank": "3",
+        "title": "Without Me",
+        "artist": "Halsey"
+    },
+    {
+        "rank": "4",
+        "title": "Bad Guy",
+        "artist": "Billie Eilish"
+    },
+    {
+        "rank": "5",
+        "title": "Wow",
+        "artist": "Post Malone"
+    },
+    {
+        "rank": "6",
+        "title": "Happier",
+        "artist": "Marshmello and Bastille"
+    },
+    {
+        "rank": "7",
+        "title": "7 Rings",
+        "artist": "Ariana Grande"
+    },
+    {
+        "rank": "8",
+        "title": "Talk",
+        "artist": "Khalid"
+    },
+    {
+        "rank": "9",
+        "title": "Sicko Mode",
+        "artist": "Travis Scott"
+    },
+    {
+        "rank": "10",
+        "title": "Sucker",
+        "artist": "Jonas Brothers"
+    },
+    {
+        "rank": "11",
+        "title": "High Hopes",
+        "artist": "Panic! at the Disco"
+    },
+    {
+        "rank": "12",
+        "title": "Thank U, Next",
+        "artist": "Ariana Grande"
+    },
+    {
+        "rank": "13",
+        "title": "Truth Hurts",
+        "artist": "Lizzo"
+    },
+    {
+        "rank": "14",
+        "title": "Dancing with a Stranger",
+        "artist": "Sam Smith and Normani"
+    },
+    {
+        "rank": "15",
+        "title": "Se\u00f1orita",
+        "artist": "Shawn Mendes and Camila Cabello"
+    },
+    {
+        "rank": "16",
+        "title": "I Don't Care",
+        "artist": "Ed Sheeran and Justin Bieber"
+    },
+    {
+        "rank": "17",
+        "title": "Eastside",
+        "artist": "Benny Blanco, Halsey and Khalid"
+    },
+    {
+        "rank": "18",
+        "title": "Going Bad",
+        "artist": "Meek Mill featuring Drake"
+    },
+    {
+        "rank": "19",
+        "title": "Shallow",
+        "artist": "Lady Gaga and Bradley Cooper"
+    },
+    {
+        "rank": "20",
+        "title": "Better",
+        "artist": "Khalid"
+    },
+    {
+        "rank": "21",
+        "title": "No Guidance",
+        "artist": "Chris Brown featuring Drake"
+    },
+    {
+        "rank": "22",
+        "title": "Girls Like You",
+        "artist": "Maroon 5 featuring Cardi B"
+    },
+    {
+        "rank": "23",
+        "title": "Sweet but Psycho",
+        "artist": "Ava Max"
+    },
+    {
+        "rank": "24",
+        "title": "Suge",
+        "artist": "DaBaby"
+    },
+    {
+        "rank": "25",
+        "title": "Middle Child",
+        "artist": "J. Cole"
+    },
+    {
+        "rank": "26",
+        "title": "Drip Too Hard",
+        "artist": "Lil Baby and Gunna"
+    },
+    {
+        "rank": "27",
+        "title": "Someone You Loved",
+        "artist": "Lewis Capaldi"
+    },
+    {
+        "rank": "28",
+        "title": "Ransom",
+        "artist": "Lil Tecca"
+    },
+    {
+        "rank": "29",
+        "title": "If I Can't Have You",
+        "artist": "Shawn Mendes"
+    },
+    {
+        "rank": "30",
+        "title": "Goodbyes",
+        "artist": "Post Malone featuring Young Thug"
+    },
+    {
+        "rank": "31",
+        "title": "Zeze",
+        "artist": "Kodak Black featuring Travis Scott and Offset"
+    },
+    {
+        "rank": "32",
+        "title": "Better Now",
+        "artist": "Post Malone"
+    },
+    {
+        "rank": "33",
+        "title": "Youngblood",
+        "artist": "5 Seconds of Summer"
+    },
+    {
+        "rank": "34",
+        "title": "Money in the Grave",
+        "artist": "Drake featuring Rick Ross"
+    },
+    {
+        "rank": "35",
+        "title": "Speechless",
+        "artist": "Dan + Shay"
+    },
+    {
+        "rank": "36",
+        "title": "Break Up with Your Girlfriend, I'm Bored",
+        "artist": "Ariana Grande"
+    },
+    {
+        "rank": "37",
+        "title": "Please Me",
+        "artist": "Cardi B and Bruno Mars"
+    },
+    {
+        "rank": "38",
+        "title": "Money",
+        "artist": "Cardi B"
+    },
+    {
+        "rank": "39",
+        "title": "You Need to Calm Down",
+        "artist": "Taylor Swift"
+    },
+    {
+        "rank": "40",
+        "title": "Panini",
+        "artist": "Lil Nas X"
+    },
+    {
+        "rank": "41",
+        "title": "Look Back at It",
+        "artist": "A Boogie wit da Hoodie"
+    },
+    {
+        "rank": "42",
+        "title": "A Lot",
+        "artist": "21 Savage"
+    },
+    {
+        "rank": "43",
+        "title": "Me!",
+        "artist": "Taylor Swift featuring Brendon Urie"
+    },
+    {
+        "rank": "44",
+        "title": "Mia",
+        "artist": "Bad Bunny featuring Drake"
+    },
+    {
+        "rank": "45",
+        "title": "Pop Out",
+        "artist": "Polo G featuring Lil Tjay"
+    },
+    {
+        "rank": "46",
+        "title": "Beautiful Crazy",
+        "artist": "Luke Combs"
+    },
+    {
+        "rank": "47",
+        "title": "Thotiana",
+        "artist": "Blueface"
+    },
+    {
+        "rank": "48",
+        "title": "Lucid Dreams",
+        "artist": "Juice Wrld"
+    },
+    {
+        "rank": "49",
+        "title": "Mo Bamba",
+        "artist": "Sheck Wes"
+    },
+    {
+        "rank": "50",
+        "title": "Beautiful People",
+        "artist": "Ed Sheeran featuring Khalid"
+    },
+    {
+        "rank": "51",
+        "title": "Wake Up in the Sky",
+        "artist": "Gucci Mane, Bruno Mars and Kodak Black"
+    },
+    {
+        "rank": "52",
+        "title": "Whiskey Glasses",
+        "artist": "Morgan Wallen"
+    },
+    {
+        "rank": "53",
+        "title": "God's Country",
+        "artist": "Blake Shelton"
+    },
+    {
+        "rank": "54",
+        "title": "Be Alright",
+        "artist": "Dean Lewis"
+    },
+    {
+        "rank": "55",
+        "title": "Pure Water",
+        "artist": "Mustard and Migos"
+    },
+    {
+        "rank": "56",
+        "title": "The Git Up",
+        "artist": "Blanco Brown"
+    },
+    {
+        "rank": "57",
+        "title": "Taki Taki",
+        "artist": "DJ Snake featuring Selena Gomez, Ozuna and Cardi B"
+    },
+    {
+        "rank": "58",
+        "title": "Close to Me",
+        "artist": "Ellie Goulding and Diplo featuring Swae Lee"
+    },
+    {
+        "rank": "59",
+        "title": "Envy Me",
+        "artist": "Calboy"
+    },
+    {
+        "rank": "60",
+        "title": "You Say",
+        "artist": "Lauren Daigle"
+    },
+    {
+        "rank": "61",
+        "title": "Hey Look Ma, I Made It",
+        "artist": "Panic! at the Disco"
+    },
+    {
+        "rank": "62",
+        "title": "Circles",
+        "artist": "Post Malone"
+    },
+    {
+        "rank": "63",
+        "title": "Beer Never Broke My Heart",
+        "artist": "Luke Combs"
+    },
+    {
+        "rank": "64",
+        "title": "The London",
+        "artist": "Young Thug, J. Cole and Travis Scott"
+    },
+    {
+        "rank": "65",
+        "title": "Con Calma",
+        "artist": "Daddy Yankee and Katy Perry featuring Snow"
+    },
+    {
+        "rank": "66",
+        "title": "Murder on My Mind",
+        "artist": "YNW Melly"
+    },
+    {
+        "rank": "67",
+        "title": "When the Party's Over",
+        "artist": "Billie Eilish"
+    },
+    {
+        "rank": "68",
+        "title": "Act Up",
+        "artist": "City Girls"
+    },
+    {
+        "rank": "69",
+        "title": "I Like It",
+        "artist": "Cardi B, Bad Bunny and J Balvin"
+    },
+    {
+        "rank": "70",
+        "title": "Trampoline",
+        "artist": "Shaed"
+    },
+    {
+        "rank": "71",
+        "title": "Leave Me Alone",
+        "artist": "Flipp Dinero"
+    },
+    {
+        "rank": "72",
+        "title": "Breathin",
+        "artist": "Ariana Grande"
+    },
+    {
+        "rank": "73",
+        "title": "Bury a Friend",
+        "artist": "Billie Eilish"
+    },
+    {
+        "rank": "74",
+        "title": "Close Friends",
+        "artist": "Lil Baby"
+    },
+    {
+        "rank": "75",
+        "title": "Baby Shark",
+        "artist": "Pinkfong"
+    },
+    {
+        "rank": "76",
+        "title": "My Type",
+        "artist": "Saweetie"
+    },
+    {
+        "rank": "77",
+        "title": "Worth It",
+        "artist": "YK Osiris"
+    },
+    {
+        "rank": "78",
+        "title": "Only Human",
+        "artist": "Jonas Brothers"
+    },
+    {
+        "rank": "79",
+        "title": "Knockin' Boots",
+        "artist": "Luke Bryan"
+    },
+    {
+        "rank": "80",
+        "title": "Trip",
+        "artist": "Ella Mai"
+    },
+    {
+        "rank": "81",
+        "title": "Rumor",
+        "artist": "Lee Brice"
+    },
+    {
+        "rank": "82",
+        "title": "Swervin",
+        "artist": "A Boogie wit da Hoodie featuring 6ix9ine"
+    },
+    {
+        "rank": "83",
+        "title": "How Do You Sleep?",
+        "artist": "Sam Smith"
+    },
+    {
+        "rank": "84",
+        "title": "Baby",
+        "artist": "Lil Baby and DaBaby"
+    },
+    {
+        "rank": "85",
+        "title": "Look What God Gave Her",
+        "artist": "Thomas Rhett"
+    },
+    {
+        "rank": "86",
+        "title": "Good as You",
+        "artist": "Kane Brown"
+    },
+    {
+        "rank": "87",
+        "title": "Clout",
+        "artist": "Offset featuring Cardi B"
+    },
+    {
+        "rank": "88",
+        "title": "Love Lies",
+        "artist": "Khalid and Normani"
+    },
+    {
+        "rank": "89",
+        "title": "One Thing Right",
+        "artist": "Marshmello and Kane Brown"
+    },
+    {
+        "rank": "90",
+        "title": "Cash Shit",
+        "artist": "Megan Thee Stallion featuring DaBaby"
+    },
+    {
+        "rank": "91",
+        "title": "Tequila",
+        "artist": "Dan + Shay"
+    },
+    {
+        "rank": "92",
+        "title": "Shotta Flow",
+        "artist": "NLE Choppa"
+    },
+    {
+        "rank": "93",
+        "title": "Hot Girl Summer",
+        "artist": "Megan Thee Stallion featuring Nicki Minaj and Ty Dolla Sign"
+    },
+    {
+        "rank": "94",
+        "title": "Talk You Out of It",
+        "artist": "Florida Georgia Line"
+    },
+    {
+        "rank": "95",
+        "title": "Beautiful",
+        "artist": "Bazzi featuring Camila Cabello"
+    },
+    {
+        "rank": "96",
+        "title": "Eyes on You",
+        "artist": "Chase Rice"
+    },
+    {
+        "rank": "97",
+        "title": "All to Myself",
+        "artist": "Dan + Shay"
+    },
+    {
+        "rank": "98",
+        "title": "Boyfriend",
+        "artist": "Ariana Grande and Social House"
+    },
+    {
+        "rank": "99",
+        "title": "Walk Me Home",
+        "artist": "Pink"
+    },
+    {
+        "rank": "100",
+        "title": "Robbery",
+        "artist": "Juice Wrld"
+    }
+]
