@@ -25,7 +25,7 @@
   "name": "Quadeca",
   "slug": "Quadeca",
   "url": "https://genius.com/artists/Quadeca",
-  "iq": 5208
+  "iq": 5193
  },
  "tracks": [
   {
@@ -46,6 +46,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -54,9 +57,6 @@
     "title_with_featured": "Daydreams",
     "updated_by_human_at": 1617555617,
     "url": "https://genius.com/Quadeca-daydreams-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -69,7 +69,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "Sometimes, I don't know what to-\nSometimes, I don't know what to think\nSometimes, I don't know what to sing\nSometimes, I don't know what'll make it okay, make it okay\nI'm snorin' all day for dreams... uh\n\nWake up ponderin', damn, my mind is wanderin'\nAll these opportunities left squandered in my oxygen\nAll accomplishments left haunted in my lack of confidence\nOften is the result of fallin' under consciousness\nYou'd make babies cry, I make crazy lives\nYou're just angry, 'cause you're livin' in a fading lie\nAnd I've been feelin' this energy, feelin' that somebody's gettin' the penalty\nFearin' that one day you end up ahead of me, feelin' that this is the end of me\nNo, will I tell you? No, never\nI think I'm so clever, but in the grand scheme of things, I know that I'm no better\nBut I don't ever\nWant to go to show just one mo' letter\nI'm a go-getter, I go get grades and get A's\nAnd get laid, then wake up, and get C's, but get paid\nUh... my life is so unusual\nTo most, it isn't suitable, to me, it's irrefutable\nCan't see me in a cubicle, I'd rather watch my funeral\nI'd rather go back to stab my own brains out back in utero\nDamn... but you know that I'm capable\nYou know I'ma pounce at any chance that is available\nFeelin' so unique, and I think it's not explainable\nNo one hears my lyrics, and says, \"OMG, relatable!\"\nNo... that's not what I am here to give\nBeen waitin' years for this, you're about to experience\nSomethin' that I've spent time, money, and thought on\nLearned about all the times money had thought wrong\nKinda funny, it's long gone, but time is crummy and not long\nI ain't lucky, I'm not calm, not by a long-shot\nI'm freakin' out on the inside, you see me on the outside\nAlways think I'm positive, and never see the downsides\nIt's 'bout time you know the truth, you couldn't be further from it\nGet your head out your own ass, you couldn't be further up it\n\nSometimes, I don't know what to sing\nSometimes, I don't know what to think\nSometimes, I don't know what'll make it okay, make it okay\nI'm snorin' all day for dreams\nSometimes, I don't know what to sing\nSometimes, I don't know what to think\nSometimes, I don't know what'll make it okay, make it okay\nI'm snorin' all day for dreams\n\nI feel like I'm way too different\nRidiculous, and most of humanity's made of idiots\nI barely even get myself, and you thinkin' you understand?\nYou think hidin' behind a screen gives you the upper-hand?\nPlease... what I do is barely poetry\nThere's hope for me, I'm noticing people starting to notice me\nUh... but still consider me confident\nStill consider me ready and givin' out all my flawlessness\nBut honestly, all of this is hauntin' me, probably\nIt is just a sense of myself wobbling, toppling\nInto awfully small pieces, normally all bleedin'\nIt's tragic and not fleetin', it follows me all evenin'\nIt's callin' my name constantly, makes it so hard to stay awake\nI close my eyes and let it go, and it all fades away\nYeah, we're just tryna find that great escape\nTo get away from how we're livin' life day-to-day\nSome people find it in a drink or in a cup\nOr in some bling or in a drug, or in the things that give us love\nBut all I know is that it's tough\nAnd all I know is that this stuff isn't enough; it's way too much\n\nSometimes, I don't know what to sing\nSometimes, I don't know what to think\nSometimes, I don't know what'll make it okay, make it okay\nI'm snorin' all day for dreams\nSometimes, I don't know what to sing\nSometimes, I don't know what to think\nSometimes, I don't know what'll make it okay, make it okay\nI'm snorin' all day for dreams"
@@ -93,6 +93,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -101,9 +104,6 @@
     "title_with_featured": "Enchanted (Bumpin')",
     "updated_by_human_at": 1617585640,
     "url": "https://genius.com/Quadeca-enchanted-bumpin-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -116,7 +116,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "Living is a dream, when you make it seem\nEnchanted (Enchanted)\nLovers take for granted\nAll the world's aglow, they ought\u2019 to know\n\nI said it's bumpin', it\u2019s bumpin', y'all just go for a ride\nWe feelin' good at the top, man, we more than high\nYeah, we be feelin' it, know that this the realest shit\nAll the pain, this is healin' it, love it, I'm never leavin' it\nIt\u2019s bumpin\u2019\n\nIt's bumpin\u2019, this beat is just so disgustin'\nYou leavin' me in the lust of my meet-and-greet for my lovin'\nI\u2019m enchanted, damn, this beat is just full of somethin'\nThat's makin' me want to get up and breathe in all the percussion\nMan, I'm dancin', dancin', man, I'm feelin' the rhythm\nDroppin' my head, fancy snares, then when it hits 'em\nIt really gets in my bloodstream, life just makes sense to me\nBass and a good groove is really a great recipe\nCan't mess with me, no one, I'm feelin' too in the moment\nFeelin' new when I go in, and feelin' blue when it's over\nAnd I'm noddin' yes, and then I am applaudin' next\nAnd I'm tryna mentally send God a text\nLike, \"Hey, what's up, God? I don't know if you're real\nBut listen to how this bumps, you'd supposedly feel like a god\nBut you-you get what I'm sayin'?\"\nAnd God damn, I just can't really express when I'm playin'\n\nI said it's bumpin', it's bumpin', y'all just go for a ride\nWe feelin' good at the top, man, we more than high\nYeah, we be feelin' it, know that this the realest shit\nAll the pain, this is healin' it, love it, I'm never leavin' it\nIt's bumpin'\n\nReally, this is bumpin' to me\nYou ain't feelin' it, so then you just get up and you leave\nBut this is somethin' to me, so don't come runnin' to me\nI said we comin' in this shit like we be fuckin' the dream\nShit... no, never mind, probably not\nBut I constantly got energy that's lost in my thoughts\nAnd I'm not gonna stop, and yes, this may be costin' a lot\nBut lookin' at the end result, man, we've accomplished a lot\nAnd no, I'm not gonna regret a thing after this\nI'm still tryna master this, 'cause now I'm known as that weird-ass rappin' kid\nThe fact of it is that it is really just a giant hobby\nSomethin' for me to be original, not a lyin' copy\nTryna make some shit where you can really get your head nodding\nVerses so fire that, when I'm done, you're left sobbing\nBut that won't happen, like I said, we just a work-in-progress\nSome of my shit means shit, and other words are nonsense\nBut now we easin' up, we got a beat that's bumpin'\nSee me stuntin' while I'm flowin', we adjustin', see me bluffin'\nEveryday man, see me bluffin', that is what I do\nListen to some good shit, tryna make a substitute\nI got so much stuff to do, and I am just a youngin' too\nWho just hopped on the scene? Everybody wonders who\nBut all I know is that we find a safety in rhythm\nAnd that is the reason that I am makin' a shipment\nI said it's bumpin'... yeah\n\nLiving is a dream, when you make it seem\nEnchanted (Enchanted)\nLovers take for granted\nAll the world's aglow, they ought' to know"
@@ -140,6 +140,9 @@
     "pyongs_count": 1,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 1,
      "hot": false
@@ -148,9 +151,6 @@
     "title_with_featured": "All on My Own",
     "updated_by_human_at": 1617587853,
     "url": "https://genius.com/Quadeca-all-on-my-own-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -163,7 +163,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "You know, you got this-\nFantasy in your head about-\nGettin' out of the life, and-\nSettin' the core of the world on it's ear\nThe fuck you gonna do, except hustle?\n\nI've been livin' life all on my own\nAll on my own, people keep callin' my phone\nWantin' to know when I'll be the star of the show\nBut I'm all my own, I'm all on my own\nAnd I don't want to talk about it, stop to doubt it\n'Cause the world is awfully crowded\nBut the ghost of me is hauntin' the throne\nSo I'll make it there all on my own (Yeah)\n\nMy intermission is mixin' with intermissions\nAnd followin' intuition conflictin' with my decisions\nAnd it is more than just business, 'cause this is for self-approval\nAnd it is to make it look like I'm livin' for somethin' useful\nAnd it's sad, but you know it's true for most of you\nAppearances distractin' from the goals that you should go pursue, to grow and move\nInto a new type of thing that you can gain from\nTo push away the past and the places that you came from\nDay one for me was like six months ago\nLook at where we been, but imagine where one can go\nIts not fun to know that we just livin' to die\nWe now know how much money you can give for a lie\nGive for a look, but how much can you give for an eye?\nWhat's the point of feelin' shit if you just livin' to cry?\nSo, get your ass up, 'cause it's time to make it happen\nAlways been shitty at rappin', but I practice for the passion, man\n\nI've been livin' life all on my own\nAll on my own, people keep callin' my phone\nWantin' to know when I'll be the star of the show\nBut I'm all my own, I'm all on my own\nAnd I don't want to talk about it, stop to doubt it\n'Cause the world is awfully crowded\nBut the ghost of me is hauntin' the throne (Yeah)\nSo I'll make it there all on my own (Yeah, yeah)\n\nI know like four people who truly respect the grind\nAnd it's usually left to climb in a newly perfected rhyme\nAnd if time is money then free time ain't really free\nAnd sometimes I get pissed 'cause my own lyrics ain't really me\nThey stemmin' from a branch of a wishlist on my Christmas tree\nI want to be what's tauntin' me, but sorry, I'm a mini-me\nIn the face of my full potential, that is the biggest me\nBigger than you, bigger than anybody in history\nThe challenge is a challenge, the fact that you got to maximize\nTo satisfy your lavish life and have a crazy magic time\nAnd luckily, I'm so damn young, 'cause, man, I have the time\nTo learn from my mistakes and grow into a mastermind\nI'm tryna master my craft, and the problem is that I've got\nSeveral different things to potentially make my job\nI want to make the MLS, and also have a milli' subs\nAnd also get a mili' plays, and maybe make a milli' bucks\nA million- shit, all we ever want is more, really\nAnd once I get three million, I want four milli'\nIt's so silly, it's so tricky, this whole cycle\nWe can never be happy, but that is so vital\n\nAnd now, everybody's wantin' to know\nHow I can grow if I am all on my own\nBut I got so much time for the throne\nAnd I'll make it there all on my own"
@@ -187,6 +187,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -195,9 +198,6 @@
     "title_with_featured": "Work In Progress",
     "updated_by_human_at": 1617588255,
     "url": "https://genius.com/Quadeca-work-in-progress-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -210,7 +210,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "I'm sittin' and listenin' to thoughts in my head\nAnd I'm pickin' a livin', but now it's gone and it fled\nMakin' songs, but instead feelin' off of the thread\nI'm forgettin' 'bout gettin' my mind lost in my bed\nAnd I'm off the top of my head\nThinkin' so many things that I'd forgotten I'd said\nRememberin' all of the better things that I had wanted\nBut lost in the palm of regret\nAnd I'm calm, but upset\nLookin' out the window, seein' a life gone past me\nFeelin' so off of it, lookin' so confident\nWhen I hear the drop of a rap beat\nTryin' to make it to the top as an athlete\nBut it all comes to a stop when they ask me\n\"Are you okay?\" Yeah\nI just really don't know what to say when it has me\nAnd life is a story of tragedy\n'Cause, what is a war without casualties?\nAnd what is the core of reality?\nSo many questions, what more than they're askin' me?\nAnd what do I say in response?\nJust another day in my thoughts\nWe got a whole world, but we stay in a box\nGo pay your dues, don't be afraid of the cost\nYeah\n\nLookin' out the window, seein' a life gone past me\nI got everything to make me happy\nAnd I'm starin' at the mirror\nAnd I'll take it in right now, because the world is so much clearer to me\nAnd I can feel your energy\nFrom millions of miles away\nAnd I'm sittin' in my room\nAnd I'm just lookin' for somethin' to say\n\nOh, oh, oh, oh\nOh, oh, oh, oh, oh\nAnd I've been sittin' in my room, I've been sittin' in my room\nI'm just lookin' for somethin' to say\n\nI'm tryna find somethin' to do with my life\nI look at you, and I'm like\n\"Damn\", I am ahead of my game\nDo what I can to go get with the fame\nAnd I'm still in the process\nFeelin' I'm killin' it, really, I'm still makin' progress\nIn fact, I'm beginnin'\nI'm spittin' my lyrics to get recognition and comments\nUh\nSometimes, it requires a lack of sleep\nResearchin' for the track or beat\nI just keep workin' when it matters least\nAnd when it matters most, I gotta have the growth\nI gotta go all out when I rap to show off\nI gotta prove myself\nWanna inspire people? Gotta move yourself\nPursue the wealth\nI'm gonna do this shit, and I'ma do it well\nI've been through a hell, and now I'm movin' on\nGot so many things to improve upon\nI'm just tryin' to do what I can\nI really don't care if I'm losin' a fan, I'm just usin' my plan\nI'm pursuin' the glam, I'm removin' the spam\nI really hope that you understand\nUh\n\nLookin' out the window, seein' a life gone past me\nI got everything to make me happy\nAnd I'm starin' at the mirror\nAnd I'll take it in right now, because the world is so much clearer to me\nAnd I can feel your energy\nFrom millions of miles away\nAnd I'm sittin' in my room\nAnd I'm just lookin' for somethin' to say\n\nOh, oh, oh, oh\nOh, oh, oh, oh, oh\nAnd I've been sittin' in my room, I've been sittin' in my room\nI'm just lookin' for somethin' to say"
@@ -234,6 +234,9 @@
     "pyongs_count": 1,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -242,9 +245,6 @@
     "title_with_featured": "It All Remains",
     "updated_by_human_at": 1617589244,
     "url": "https://genius.com/Quadeca-it-all-remains-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -257,7 +257,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "They call me Benny, Ben, Benjamin, Selena Gomez has said\nIf you ready, come get it then, everyone is jealous, and\nMany want to get friends with them just in case he is relevant\nGot iPhone camera lenses to get the Instagram evidence\nYeah, I know I'm way too cocky\nBut I'm workin', I'm figurin' it all out\nSo when people say you can't, it makes you wanna get better\nThat's benefit of the doubt\nI've been on the top of this, never droppin' the bottom, it's\nOpposite from the positives gotten from talkin' often, and\nI'm locked in a pocket of all my thoughts, and they keep turnin' around\nAlways stoppin' my songs 'cause they keep burnin' the sound\nI'm like, yo, this is freedom of speech\nTryna murder all the people who be keepin' the peace\nSacrifice your whole life 'cause you need a degree\nOpportunity in front of you, you need to achieve\nI'm like, no, I'm just tryna find some clarity\nApparently, it all has to do with popularity\nThere will be obstacles, primarily\nPeople blinded to what is carefully bein' prepared for me\nSometimes you'll have hilarity, parody, and prosperity\nI'm askin' Hillary Clinton to marry me, powerful in the very least\nAnd all of these people keep comin' in\nWonderin' why I ain't gon' fuck with them, nah!\n\nAnd I don't give a shit, man\nLife's a game, life's insane\nWe just livin' for a big plan\nI remain a lifeless frame of tired pain, and it's bland\nAnd I don't wanna do it\nI just know that it has to be done, it has to be done\nAll of y'all are rappin' for fun\nYou be takin' the shots, but you lackin' the gun, yeah\nSaid, I don't give a shit, man\nLife's insane, life's a game\nWe just livin' for a big plan\nI remain a lifeless frame of tired pain, and it's bland\nAnd I don't wanna do it\nI just know that it has to be done, it has to be done\nAll of y'all are rappin' for fun\nYou be takin' the shots, but you lackin' the gun, man\n\nOh, yo!\nGotta re-energize, got lyrics to memorize\nStart an enterprise of better guys who cannot be successful and never try\nThat's my dream job, bein' lazy, just sittin' with the TV on\nThey say that I'm bright like neon\nBut I ain't takin' responsibility\nPay me for havin' limited ability with little humility\nBut whatever I'm doin', it seems to be killin' me\nI'm unwillingly artistically fittin' into this history\nTryna show you I'm better, but none of you believe me\nTryna win this gold and try hard, good game; gg\nYou beat me, and now you see me in 3D, but you can't feel me\nShowin' up on your device- Control/Option/Delete\nConsider me part of elite, measure myself in retweets\nI be talkin' way more chill so you can reach me\nInstead of pretendin' you understand what I am talkin' 'bout\nI'm the exhibit you kinda scared for, like a haunted house\nTryna show you somethin' instead of just sittin' on the couch\nI'll be honest now, I rarely end up walkin' out\nInto reality, in normality, actually happily\nFound myself doin' nothin', and you don't laugh at me\nWhy? 'Cause, ideally, you would do the same thing\nNothin', 'cause for a brain, that is amazing\nNot complainin', but the best part of life is not even livin' it\nLove sleepin' and just usin' the internet\nBut my time is limited, and I better figure this\nBefore I'm slippin' this opportunity out my fingertips\nAnd let me just tell you what I have came to do\nTryna show you I can rap as fast as I'm able to\nTryna show you I can hop in here, like a kangaroo\nAnd say some stupid metaphors and leave after I'm breakin' through\nAnd I've got some prominent features, I'm a confident speaker\nWhen I'm off and up on the spot, and eager\nThey fearin' this every time that they hearin' it\nTo know that my lyrics have the precision to buildin' a pyramid\nSo when you're nearin' this, please let me know\nWhen I'm standin' here frozen, please let it go\nI just try to combine everythin' into this compilation\nTo unlock super-stardom and move all across the nation\nBut that is just a dream, and probably a combination\nOf a big ego and false encouragement on the way in\nBut when I'm playin', just know it's all a big game\nI'm just tryna blow up, Ben, have a big name\nBut when you think about it, it is all insane\nWhat can be created from chemicals in this brain\nBut when you look at me, you lackin' respect\nWhen I'm crackin' my neck so that I can rap to my chest\nHas in a breath, some say that it's magic, I step\nUntil I'm on the same stage, and you'll have it again, yeah!\n\nAnd I don't give a shit, man\nLife's a game, life's insane\nWe just livin' for a big plan\nI remain a lifeless frame of tired pain, and it's bland\nAnd I don't wanna do it\nI just know that it has to be done, it has to be done\nAll of y'all are rappin' for fun\nYou be takin' the shots, but you lackin' the gun, yeah\nSaid, I don't give a shit, man\nLife's insane, life's a game\nWe just livin' for a big plan\nI remain a lifeless frame of tired pain, and it's bland\nAnd I don't wanna do it\nI just know that it has to be done, it has to be done\nAll of y'all are rappin' for fun\nYou be takin' the shots, but you lackin' the gun, man"
@@ -281,6 +281,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -289,9 +292,6 @@
     "title_with_featured": "Incline",
     "updated_by_human_at": 1617589310,
     "url": "https://genius.com/Quadeca-incline-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -304,7 +304,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "Sittin' alone at 3 AM\nChillin' on a late night is the weekday's friend\nMan, this shit is too wild, I \"must behave, Ben\"\nThat's what the teachers are preachin' to me, but even when\nI'm on the top of this drop and they're rockin' the world with confidence\nAccomplishments topplin' everyone and you try stoppin' it?\nIt's obvious there's a problem, and solvin' it just ain't up to me\nLuckily, I've been trained to test the system, don't you fuck with me\nI hope you like my company, I hope you do appreciate it\nI hope that one day, you'll see we made it\nNo, you cannot recreate it, all of this pain I just alleviate it\nI'm just tryin' to find the mindset, grindin' to be the greatest\nThat is why I'm strivin', livin', tryin', I'm buyin'\nGivin' dignity, cryin', I'm winnin', but feel like dyin'\nI'm shinin', I'm like a diamond, but I am dead on the inside\nI guessin' now we'll rest with this, but set it on my big mind\n\nUh, and they say that I'm in time\nBut I keep on workin' all my life, get that in line\nI'm tryna figure out, everyone get their pictures out\nNobody's gonna live without this shit on the incline\nI'm on the incline, I'm on the incline\nStay in your lane, you got your place and I'm in mine\nI'm on the incline, bitch, I'm on the incline\nNobody can really understand how my shit climb (Yo, uh, yeah!)\n\nHave I been livin' yet? Spendin' time on the internet\nI'm wastin', they hatin' it, I should be makin' it, aimin' for goals but takin' this shit instead\nI stay in bed, laughin' at stupid shit, ludicrous\nWho is this ten year old pregnant with two new kids? Why am I doin' this?\nWhy the fuck do I care? I don't, but I kinda do\nI don't know what I try to do, but whatever it is, I say, \"Bye\", to you\nHey, me, I lied to you! Don't realize? Well it's time you do\nYou have no idea what I can do, when the skies are gray, you gotta find a blue\nYou gotta try to do, somethin' to put you into a new positive mindset\nSet headlines, go wreck lines, pass deadlines, leave lines dead\nAnd I guess that I digress, and I digest the way I'm blessed\nYou're impressed after I'm pressed, you seek intent for what I said\nBut I'm just gonna move on, get your groove on for my new song\nI do writing, you do long, got a big head, Jimmy Neutron\nYou try to hate, get in line, I just delivered some quick rhymes\nSome straight bars, we have came far, but we lookin' up on the incline\n\nUh, and they say that I'm in time\nBut I keep on workin' all my life, get that in line\nI'm tryna figure out, everyone get their pictures out\nNobody's gonna live without this shit on the incline\nI'm on the incline, I'm on the incline\nStay in your lane, you got your place and I'm in mine\nI'm on the incline, bitch, I'm on the incline\nNobody can really understand how my shit climb"
@@ -328,6 +328,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -336,9 +339,6 @@
     "title_with_featured": "No Way",
     "updated_by_human_at": 1617589719,
     "url": "https://genius.com/Quadeca-no-way-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -351,7 +351,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "Okay\nEverybody's always askin\u2019 if you're okay\nI don't even care what you do, what you don\u2019t say\nI learned what it was about in the fourth grade\nAnd I said, \"No way\", no way to a life like that\nMotherfucker, that is so fake\nI'll do whatever I can to get away from it\nThey were always tryna' say that it's okay, and I'm like-\n\"No way\"\n\n\"No way\" from you, and \"No way\" from me\nI'm tryna' get it in the case for the place to be, but that place for you is not the same for me\nI want vacancy, the freedom to do what I'm dreamin\u2019, to use my belief and the reason\nThat\u2019s eas'ly conveyed, that people can change, the feelin\u2019 believin' it's only a phase\nThat's holdin\u2019 me back, once people were showin' me that, I learned what I know to be facts\nAre only a trap, distractin' my folks that's in class, I hope that would last\nAnd hope for the best, this ode to success is hopin' to more and open to less\nI'm open to, \"No\", and I'm open to, \"Yes\", I know I'm obsessed\nBut... hoppin' onto the Drake flow\nIn the same river, but actually on the same boat\nRainbows and angels ain't nothin' to the main show\nReality happily helpin' tragedy make lows\nThe truth is, we're all on a clueless stupid team\nWhere no one's really who they seem, we're livin' in some lucid dreams\nYeah... and life is such a confusin' thing\nI'm lookin' at myself and searchin' for somethin' new to bring\n\nOkay\nEverybody's always askin' if you're okay\nI don't even care what you do, what you don't say\nI learned what it was about in the fourth grade\nAnd I said, \"No way\", no way to a life like that\n(No way, no way, no way, no way!) Motherfucker, that is so fake\nI'll do whatever I can to get away from it\nThey were always tryna' say that it's okay, and I'm like-\n\"No way\"\n\nUh...\nAnd I'm like-\n\"No way\"\nAll these people thinkin' that they know the best for you\nAnd I'm- I'm... I'm just like-\n\"Go away\"\nYeah\n\nIf I release like sixty albums in a year, then I'm bound to get noticed\nHands in the air, like I'm down to get chosen\nThe world is floodin', either drown or get floatin'\nThe lyricism overwhelms, your mouths are left open\nI'm bound to get goin', there's way too much here for me\nAll of these doors that are bound to get closin'\nI'm tryna make the whole entire alphabet broken\nI'm just tryna be the person with the sound that's less-spoken\nAnd what it feel like\nTo be livin', not knowin' if it's the real life?\nTo feelin' this so special, unlimited potential\nTryna not to let him down, gettin' up to my own level?\nThat's the reason that I'm puttin' in this effort\nI'm just tryna make a meanin', I'm just lookin' to get better\nAnd I hope one day it happens, I'm just lookin' for my own way\nI just keep on lookin' for the signs that say it's okay\n\nOkay\nEverybody's always askin' if you're okay\nI don't even care what you do, what you don't say\nI learned what it was about in the fourth grade\nAnd I said, \"No way\", no way to a life like that\nMotherfucker, that is so fake\nI'll do whatever I can to get away from it\nThey were always tryna' say that it's okay, and I'm like-\n\"No way\"\n\nAnd I'm like-\n\"No way\" (And I'm like, \"No way\")\n(And I'm like, \"No way\", and I'm like, \"No way\")"
@@ -375,18 +375,18 @@
     "pyongs_count": 6,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 4,
      "hot": false,
-     "pageviews": 37681
+     "pageviews": 37639
     },
     "title": "Wii Music Fire",
     "title_with_featured": "Wii Music Fire",
     "updated_by_human_at": 1617589978,
     "url": "https://genius.com/Quadeca-wii-music-fire-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -399,7 +399,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "Yeah, uh, yeah\n\nWe just livin' in the solar system\nOne big world here to hold the wisdom\nOne big jail to control the victims\nWe're all here tryna find a soul in rhythm\nAnd a voice in writin', and a choice decidin'\nWhether or not to follow what the boys are likin'\nWhat the girls are doin', what we gotta be exposed to\nThink about who you are, and it's so true\nThink about the people who you think have really known you\nDo they really know you? Do you even know you? (No)\nDamn, this shit is like a Jaden Smith tweet\nSometimes, you gotta think 'bout how crazy shit be\nAnd lately, it seems to make the extremes\nSo prominent and dominant in making big dreams\nI'm seein' aliens scream\nWhen I go to sleep, man, my brain needs fixing\nBut, I'm just tryna make it in life\n\"Fuck you\" to people who be sayin' it like\nI ain't makin' it right, take a vacation and hike\nI'm chilled out, bitches, gettin' famous, despite\nThe fact that I'm young and a little bit nerdy\nAnd I know a lot of people will consider me early\nI'm just a little kid workin' tryna configure my searches (Oh!)\nTryna deliver my purpose, and take a shit on my burdens (Damn, man!)\nI'm just me, no, I ain't a victim or hurtin'\nI just see all the people livin' and burnin'\nSo be free, time to be a little bit nervous\nIt don't matter if you're scared, 'cause this shit is disturbin'\nAnd I get it, and I don't wanna ever forget it\nGuessin' I'm headed towards the endin', and I know it is splendid\nSo I'll see ya' 'round, underachievers (Yeah)\nHop on my wagon, 'cause we draggin' late, we gotta be leavin', man\n\nSo, basically\nI do this for fun, they ain't makin' me\nI'm tryna have a blast, 'cause we growin' so fast\nWe be gettin' my career from A to Z\nAnd, basically, I'm great you see\nI made my life at the age of three\nBut what am I meant to do\nWhen my own fanbase are hatin' me?\n\nI've seen people misusing their fans like crooks\nManipulatin' their audience to catch that hook\nThey'll believe anything that you tell them, look-\nYou can feed them shit so you can sell your book, hah (Ooh)\nBut no shots fired, though\nNothin' wrong with a little bit of lyin', though\nI mean, look at Fox News\nThat's the whole premise of their entire show (Haha)\nBut no political shit\nI always do just enough, I'm a minimalist\nMakin' the most of my minimums, winnin' 'em\nGot a couple of synonyms to help you listen to original bits\nI have got a lot of digital prints\nMan, your own homedog is a literal bitch\nBut I'm fillin' the syllables, it's a little predictable\n'Cause I've written this shit for all of the cynical kids\nI got time! Maybe a little too much of it\nBut you know that I'm tryna move up a bit\nPeople look at me and say\nMy \"potential has got a big max\", and you know that I'm lovin' it\nSo fire, you can't handle me with oven mitts\nUnderground blessed if you have discovered it\nFlow's so unique, I do what I want\nGot so much to do, not like any other kid\n\nSo, basically\nI do this for fun, they ain't makin' me\nI'm tryna have a blast, 'cause we growin' so fast\nWe be gettin' my career from A to Z\nUm, basically, I'm great you see\nI made my life at the age of three\nBut what am I meant to do\nWhen my own fanbase are hatin' me?"
@@ -423,6 +423,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 1,
      "hot": false
@@ -431,9 +434,6 @@
     "title_with_featured": "So Amazing",
     "updated_by_human_at": 1617590330,
     "url": "https://genius.com/Quadeca-so-amazing-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -446,7 +446,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "All of these people keep on changin'\nAll of these times and different phases (Oh-oh)\nAll of these lights, I know the stages (Oh-oh)\nAll of these sights is so amazin' (Oh)\nI've seen at least a million faces (Oh-oh)\nA million times, a million places (Oh-oh)\nBut when it's all said and done (Oh-oh)\nI look and I wonder why, oh\n\nUh, yeah\nEveryone knows that it's so amazin', all the support is my motivation\nCompared to the big people at the Capital, my name is spelt in lower cases\nPeople loved me before I made it, people liked it before they watched it\nI'm on a way too much more than I have, and I'm glad, because now, I will never stop it\nMan on a mission, and I got a vision of talkin' a lot of wisdom, and I gotta listen\nGotta follow and be the leader, and tomorrow, I'll be the teacher where they need the feature\nGot flow, and it's so damn crazy, people consider me so amazin'\nI'm holdin' control and then foldin' them verses, I'm hurt because I'm on loaded bases\nAdvanced shit, I know the basics, already know them, they're overrated\nMeanwhile, I am not rated at all, so we hopin', 'cause now I am open for game\nAnd I'm charged up, I ain't Drake, but I'm on the worst behavior\nSo many people they know the players, don't know the game, and don't know the makers\nDon't know the fakers, but who cares? I'm not here to cater, I'm here to improve and show that I'm greater\nI'm here to go move and just go on the layers, and bitch, I am goin', so later\nI got time, my own lyrics, I got mine, man\nI'm on time for the wrong lines, but I'm not cryin', so let's start grindin'\nLet's go, yeah\n\nAll of these people keep on changin'\nAll of these times and different phases (Oh-oh)\nAll of these lights, I know the stages (Oh-oh)\nAll of these sights is so amazin' (Oh)\nI've seen at least a million faces (Oh-oh)\nA million times, a million places (Oh-oh)\nBut when it's all said and done (Oh-oh)\nI look and I wonder why, oh"
@@ -470,6 +470,9 @@
     "pyongs_count": 1,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 3,
      "hot": false
@@ -478,9 +481,6 @@
     "title_with_featured": "Jong And Ill",
     "updated_by_human_at": 1617591198,
     "url": "https://genius.com/Quadeca-jong-and-ill-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -493,7 +493,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "Got a good girl, she can't make time\nGot a bad one who can't have fun, and she fall in love for the same rhymes\nAll of these people live fake lives, your whole life is a gray lie\nYou reminiscin' over old money and I'm on the grind tryna make mine\nI'm so Jong and ill like the dictator, what I gotta do to make the quick paper?\nThese kid-haters are like ten years old but still claim to be big players\nThat shit will make me go, but I'm aimin' high, and you aimin' low\nGot amazin' rhymes and a crazy flow, and I may be a liar, but I came to show\nWhat I can do when I get on the mic, and I'm keepin' it movin', you said I'm the hype\nAnd I'm seein' it through in successes inside, I don't take it for granted with plans in this life\nYou set on the wrong, forgettin' the right, like 2 AM in my head in the lights\nAhead of the best of 'em, lettin' the rest of 'em go off to bed in the night\nI'm gettin' it like I be livin' in first class, I know that you never will surpass\nI'm gettin' the worst task for this burnt cash whenever I work fast\nRemember the memos they sendin' and sendin' again and again and they never will end it\nAnd say it is splendid, but never a legend, and every sentence I say is perfected\nTake a deep breath, 'cause I need that\nMost of y'all don't even care what I'm sayin', you really just like how I speak fast\nMy bars are meta, I got meta bars with meta-eights and metaphors\nYou want better cores and better cars, but you don't know what I'm headin' towards\nSay that I am the king of this shit, crazy rhymes, they ain't thinkin' of this\nI'm singin' and rappin', and makin' it happen and makin' you laugh when I'm bringin' this shit\nTryna find the other way, y'all just waitin' for another day\n'Cause what other fourteen-year-old is at 100K?\nI'm makin' the most of a crazier flow, so many ways it could go\nI'm takin' the throne and you chillin' and stayin' at home, I'm willin' to make it my own\nI'm bakin' my cake, and you know that I'm eatin' it, even if stayin' up late is the needed bit\nReason is, stayin' the same, I'm just fleein' it, leavin' my life while I'm seein' these seasons switch\nMeanin', these people ain't feelin' rich, reach in the fire, I'm heatin' it\nPleasin' these liars, they peeped it, so now they're receivin' it, agreein' to be in a life without leadin' it\nFlow's so dope, I think it's time that we take a break\nWe all make mistakes and play some hate, I got 808s here to save the day\n'Cause I am on top of it, lost in my thoughts and I gotta be stoppin' it, rockin' it\nYou know my flow is so dominant, positive, confident, full of accomplishments, compliments\nAll of these offers is borin' as fuck, though I am not a part of 'em\nStart a new part to the charts, and I gotta be sure this art is the star on the map when I'm startin' it\nBreakin' it up, like cartilage, flow is so crazy, it's dope and you know it\nI know that you hate to admit it, but really, this shit is the business, rhymes keep darkenin'\nUnder the radar, you don't know what's comin', I'm comin' right up, and your bitch started runnin'\nI found to be part of a little of somethin' called love, and I guess that's the art of it\nI try to go slow, but it don't work\nI'm gettin' better, that don't hurt, and you think I'm dead, and you're so sure\nYou're salty and not kosher, slave to the corporates and the owners\nThis is life and love, call it Shrek, like the ogre\nHah, bitch, I have had enough, and I am sure I ain't mad enough\nForgettin' the rest while I'm gettin' success, and I look at the numbers, I add 'em up\nThis chart is like a parabola, thank you a lot for havin' us\nAnd so, every day, I take one step up, man, I am takin' the ladder up\nA hundred-thousand, we get the plaque, lookin' forward, not headin' back\nRemember what I had said is that we ain't givin' up, remember that\nHit me up when you're done whining, I'll hit you up when I'm done rhyming\nListen up, 'cause I'm combinin' all my skills into one finding\nWe run rhymes, you know we do, we got the shit that we're goin' through\nThese lyrics go over you, you don't listen, so you don't know it's true\n'Cause we in, and we've done it, thousands, now we a hundred\nShoutout to Didac and Momo and the others\nShit, I consider them brothers, shit, I consider you all of my family\nShoutout to those who will stand with me, even when all of the others abandon me\nDrama, we move past that, I look at you with the last laugh\nBetter trackback, now I rap fast, so many skills in my backpack\nStarted off so terribly, now all of these people compare to me\nIn the past, I never anticipated what there would be\nAnd see ya', so long now, off to the end of the song now\nSee ya' next at five-hundred and a million, it's on now"
@@ -517,6 +517,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -525,9 +528,6 @@
     "title_with_featured": "Glory (Ft.\u00a0Walia)",
     "updated_by_human_at": 1617592154,
     "url": "https://genius.com/Quadeca-glory-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -540,7 +540,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "Do-do, do-do-do-\nDo-do-do-do-do-do-\nD-do-do-do-do-do-\nDo-do-do-do-do-do-\n\nI'm gonna make it, no, I'm stoppin' at nothin'\nPeople are tryna say I can't, but they oughta be bluffin'\nSorry I'm blushin' when you tell me that I'm not to be somethin'\nYou better get your head up, and start to watch when I'm comin'\nRunnin' and plungin' up in the front of this new form of media\nLeavin' the previous life, believin' the Wikipedia\nPeople are feedin' ya' more bull, they seem to be greedier (Yeah)\nThey seem to be needier, and only you get beat when they teasin' ya'\nFeelin' much easier to fall into the trap\nThe system all is a fraud, but you crawl into its lap\nNot at all is it that, miseducation blamin' its mistakes and faults on the rap\nGet off of my ass, I'm not callin' you back\nBitch, like, what the fuck are you doin'? You're throwin' away all of my trust into you, and\nI'm up in my groove, and you stuck in a loop, and I'm runnin' with stuff that you'd love to be usin'\nEnough is enough, but this stuff isn't true, and I'm bustin' 'em up and I'm stuck in my movement\nYou fuckin' it up and it comes in the blue, and it's crushin' and crushin', you tough for pursuin'\nAnd people say Eminem's better than Ben again, then again, I'm like fourteen\nI'm a lucky man, but they don't understand, I got the upper hand, even in your dreams\nThese lyrics are foreseen, you try to insult them? You're mean\nThis is the craziest shit that you ever will see on your screen\nAnd I keep on settin' more goals to keep on headin' towards\nI try to rap with some fast verses and big words with some metaphors\nThis is the work in progress, a lot of shit to get better for\nBut I'm takin' steps, I keep makin' chances, not lookin' back anymore\nUh\n\nAnd I know\nEverything that you believe in\nAnd I know\nOf these things that you are seein'\nBut you'll never ever realize\nThat I am gonna be signed\nAnd everyone is waiting for the\nGlory, glory, glory (Oh)\n\nUh, yo\nMotivation is a rare occasion, I'm patiently waitin' for\nTime that we spendin' is wasted and traded for makin' more\nI hate the door, I hate it, remindin' me of the exit sign\nIt's safer just to quit, not to be risky, and never try\nYou have your path, I'd like to think I'm settin' mine\nBut I rarely stretch the line, I never really ever get to spend the time\nA lesson's learned, a less-than rhyme, but I can't express the mind\nOn hatin' uneducated basic comments are said online, uh\nBut, fuck 'em, does that even matter? It don't even matter\nI don't see them face-to-face and I don't meet 'em after\nAll I do is see disaster, all I do is see an empty face and I can't breathe with laughter\nAll I wanna do is leave the chatter\nAll you do is say, \"It's shitty\", 'kay, you just need to batter\nYou don't let it sit, you don't let it bake, you don't read the pattern\nAll I wanna do is spit some game, I can't be a rapper\nI will see down below, tell me if you need the ladder\nYeah\n\nAnd I know\nEverything that you believe in\nAnd I know\nOf these things that you are seein'\nBut you'll never ever realize\nThat I am gonna be signed\nAnd everyone is waiting for the\nGlory, glory, glory (Oh)"
@@ -564,6 +564,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -572,9 +575,6 @@
     "title_with_featured": "Hell No",
     "updated_by_human_at": 1617592642,
     "url": "https://genius.com/Quadeca-hell-no-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -587,7 +587,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "Limitless the minute it finishes, I'm livin\u2019, win it with women while killin', chillin' and feelin\u2019 rich\nI'm only fourteen, far beyond my innocence, vivid and bitches-ness overpowers me in a sense\nI see visions, provisions of the future, can't sit back with no decisions like I used to\nI used to sit at my computer, still do the same thing, but now I'm the producer\nAnd now I'm buildin' my own audience, almost a hundred-thousand, started out with nothin', and now, I just climbed a mountain\nLike, how can that happen? It's a pure dream, somethin\u2019 that I can hardly imagine\nI\u2019m part of the magic, the art of the passion is somethin' so rare, man, it\u2019s hard to go grasp it\nBut you know I've accomplished it, look at the numbers and stare in astonishment\n\nRecently, I'm livin' with the same familiar feelin\u2019\nI've been livin' in a movie and I'm thinkin' that I'm dreamin'\nNow I feel like I am screamin' when I'm seein' all these seasons\nBut believe in what I'm breathing, there's no doubt, I will achieve it\n\nHell no! Hell no!\nI said, \"No\", to the people 'round me ('Round me)\nHell no! Hell no!\nNone of y'all know nothin' 'bout me ('Bout me)\nOh no! Oh no!\nI'm feelin' the rhythm in the down beat (Down beat)\nSo low, I'm so low\nOpportunity is up and around me\n\nI feel blessed, but I'm a demon, I guess that is the reason\nThat success is why I'm leavin', normal life that ain't appealin'\nBut you know I'm never stealin', I am playin' by the rules\n'Cause I made them up and usin' them to make it past my school\nI'm complacent when I'm facin', I embrace against the clock\nMy motto is, I'll keep on grindin' till I make it, never stop\nAnd I'm takin' on a lot, and I feel like I can do it (Oh no, no, no, oh no, no, no)\n'Cause I made this beat myself, I just keep on makin' improvements (Oh no, no, no, no, no, no, no)\nIt's so weird to think, once things were all clear to me\nI'd never try to question them from what they would appear to be\nBut that's a losers game, the game of life is such a confusin' thing\nMost of its clues can never soothe the pain, but just look at each other, and do the same\nBut I'ma take a different path, if it means I go broke, I will live with that\nTo reach the top, man, I'm in for that, when I take this shit, I won't give it back\nI got an odd mentality, sometimes, I think that life is really not reality\nSuccess' definition hasn't got morality, or just, money, money, money, money on the salary\nSometimes I feel like I have lost my sanity, searchin' through my mind all across humanity\nBut I got my family and I got my health, got everythin' I'd ever need, but have I got myself?\nI've got to ask myself, \"Why am I after this?\", happiness outweighs the risk of the tragicness\nSo I know it's a gamble, I'm makin' a wish, and I'm blowin' the candles\n\nHell no! Hell no!\nI said, \"No\", to the people 'round me ('Round me)\nHell no! Hell no!\nNone of y'all know nothin' 'bout me ('Bout me)\nOh no! Oh no!\nI'm feelin' the rhythm in the down beat (Down beat)\nSo low, I'm so low\nOpportunity is up and around me"
@@ -611,6 +611,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -619,9 +622,6 @@
     "title_with_featured": "Swimming",
     "updated_by_human_at": 1617593703,
     "url": "https://genius.com/Quadeca-swimming-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -634,7 +634,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "We swimmin', got our whole entire squad now\nMan, we about to win it\nSaid, we swimmin', no time till you fall out\nBottom of the last innin'\nSaid, we swimmin', damn, we about to ball out\nIt's the life that I'm livin'\nLife that I'm livin', not sure who to call now\nCheck with the verse and let's see what it's all 'bout\nSwimmin'\n\nWe gettin' bitches, not women\nWe gettin' hit the minimum too far, so we track back\nAnd I'm listenin', isn't it just\nDodgin' my bullet? Quick duck, like you Aflac\nYou half-ass when I rap fast\nThinkin' of that as, \"Whatever\"\nBut come to the stage, stop runnin' away\nMan, I'm ready for you to get better (Go)\nI gotta ace tests and make paychecks\nAnd put it all on my plate\nAnd I'm great, blessed, without gray messes\nSo start to get on the plane\nI'm left in my lane, obsessed with my brain\nI guess I'm insane, I'm reppin' the game\nForgettin' my gains, no, I ain't wet in the rain\nI'm the best in the sun, and best for my age\n\nWe swimmin', got the whole entire squad now\nMan, we about to win it\nSaid, we swimmin', no time till you fall out\nBottom of the last innin'\nSaid, we swimmin', damn, we about to ball out\nIt's the life that I'm livin'\nLife that I'm livin', not sure who to call now\nCheck with the verse and let's see what it's all 'bout\nSwimmin'\n\nI'm a different incident\nIt's ridiculous sometimes that I see me on TV\nOr in 3D (None!)\nImagine myself in retweets, shall we see these (Ones)\nIt's been like ten minutes, shit is too easy, son\nBut dad says I look like E.T., but\nPlease, believe me, this shit is freaky\nAnd it is too creepy (Run)\nI've been servin' it up, like it's dinner\nI've been makin' that paper, you stuck, like a printer\nYou run out of money, tough luck is a pity\nBut really, you suck, I don't fuck with beginners\nRunnin' the city, but really, I'm not\nAll these girls they say, \"Illy and Illy, they hot\"\nBut I nearly forgot that I'm killin' my spot\nAnd I clearly do not wanna get on the block\nIf it were in the thought that my lyrics were hot\nThey don't wanna acknowledge it, they don't wanna acknowledge it\nThat your boy is astonishin'\nLackin' the confidence, but I be packin' the obvious\nLost in the drop of a rap with an audience\nIn the back of the promises\nHappens to constantly wanna be over\nAnd honestly, it is just rackin' in dominance\n\nYeah\nAnd I know, and I'm tellin' y'all that I know\nI don't ever want it\nDon't ever want it\nSo many people don't ever want it, oh no\nLet me tell you, I got so many things\nAnd so many places to go\nIf you ever want it, don't ever stop it\nDon't get up off of your throne\n\nYeah, we swimmin', got the whole entire squad now (Yeah, we swimmin')\nMan, we about to win it\nSaid, we swimmin', no time till you fall out (Oh, oh)\nBottom of the last innin'\nSaid, we swimmin', damn, we about to ball out\nIt's the life that I'm livin'\nLife that I'm livin', not sure who to call now\nCheck with the verse and let's see what it's all 'bout"
@@ -658,6 +658,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -666,9 +669,6 @@
     "title_with_featured": "Only Just Met Her",
     "updated_by_human_at": 1617594033,
     "url": "https://genius.com/Quadeca-only-just-met-her-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -681,7 +681,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "I said, I'm married to the game, but I only just met her\nHopin' that my shit get better, but I'm just gonna\nMove with it, ride with it\nIt's my life, the only burden is the time limit\nFuck it, I'm livin', I said, \"Fuck it, I'm livin'\"\nPeople are gettin' mad, just because, yeah, I'm winnin'\nJust because, yeah, I'm winnin', they're stuck-up, and I get it\nJust because your life sucks, stop corruptin' mine with it\nAyy, ayy\nOh, oh\nSaid, I'm married to the game, I'm married to the game\nSaid, I'm married to the game, but I only just met her\n\nYeah, time to move on, grindin' out all my new songs\nMy only motivation is people I need to prove wrong\nYeah\nSaid, my only motivation is- yeah\nAnd, how am I meant to keep my workflow up?\nIf a girl shows up, all my world blows up\nI'm just sittin' and waitin', instead of becomin' the greatest\nTryna find a brand new motherfuckin' deal\nAll you bitches fake, all my numbers real\nAll my shit is punchin' in my stomach, like a meal\nAm I married to the game if I can't afford a ring?\nIt's all very much the same if I can't afford to sing\nMan, it's scary for a king, even-, I said, it's scary for a king, even\nThey call me odd, but I bring even\nI bring reason to believe in it, even it up for free, and\nThe meanin' is really scenin', no line can be wrong between 'em\nI don't show seasons, I am me no matter what, and that can grow pleasin'\nI'm barely close to anybody, I don't know people\nMan, I don't know people who so equal\nI don't know nobody who doesn't own evil\nMan, that is just a truth and a lie\nA truth and a lie, somethin' like the blue in the sky\nOr a suit and a tie, I'm new to the life, I'm new in my mind\nNew to the time, man, I'm like the proof in disguise\nAnd I'm lookin' at all of this shit, oh, you should know I'm not fallin' for this (I got so much time, so much time, I got-)\nYou get discouraged for one minute, and the next one, you be callin' it quits  (So much time, so much time, I got-)\nAnd I'll probably get rich if I focus enough, you're close-minded, let's open it up (So much time, so much time, I got-)\nAnd all of these people assumin' 'bout what I be doin', but they do not know what is up (So much time left for me, ayy!)\nAnd I just wish that they would fuckin' go away (I've got so much time, so much time, I've got-)\nAnd I won't obey, no I will never ever show the way (So much time, so much time, I've got-)\nAnd I will try to mask it up with other jokes on fuckin' jokes (So much time, so much time, I've got-)\nAlways playin' G, but now I'm movin' onto other notes (So much time, so much time)\nYeah\n\nI said, I'm married to the game, but I only just met her\nHopin' that my shit get better, but I'm just gonna\nMove with it, ride with it\nIt's my life, the only burden is the time limit\nFuck it, I'm livin', I said, \"Fuck it, I'm livin'\"\nPeople are gettin' mad, just because, yeah, I'm winnin'\nJust because, yeah, I'm winnin', they're stuck-up, and I get it\nJust because your life sucks, stop corruptin' mine with it\nAyy, ayy\nOh, oh\nSaid, I'm married to the game, I'm married to the game\nSaid, I'm married to the game, but I only just met her"
@@ -705,6 +705,9 @@
     "pyongs_count": null,
     "song_art_image_thumbnail_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.300x300x1.png",
     "song_art_image_url": "https://images.genius.com/ce1e3454958ec1b41c3bbb12a8c3edc5.1000x1000x1.png",
+    "song_art_primary_color": null,
+    "song_art_secondary_color": null,
+    "song_art_text_color": null,
     "stats": {
      "unreviewed_annotations": 0,
      "hot": false
@@ -713,9 +716,6 @@
     "title_with_featured": "Clouds",
     "updated_by_human_at": 1617644291,
     "url": "https://genius.com/Quadeca-clouds-lyrics",
-    "song_art_primary_color": "#dd0e15",
-    "song_art_secondary_color": "#128a3e",
-    "song_art_text_color": "#fff",
     "primary_artist": {
      "_type": "artist",
      "api_path": "/artists/683879",
@@ -728,7 +728,7 @@
      "name": "Quadeca",
      "slug": "Quadeca",
      "url": "https://genius.com/artists/Quadeca",
-     "iq": 5208
+     "iq": 5193
     },
     "artist": "Quadeca",
     "lyrics": "How can I have a believable meanin'\nWhen all of you live in a paradise, live in the luxury, nobody seen it or  greet it?\nBut what if it's different? I mean, it's all seemin' to be, and it's in inconceivable dreaming\nI know it's so unbelievable, being stuck in this rare unachievable feeling\nGivin' me somethin', I ended up leavin', givin' me nothin', I ended up grievin'\nNo positive side, ended up seein' what life could be like from a different lead in\nThank God for a cover zone so I know when and where to cross it\nLife goes all over the place, I'm surprised I haven't lost it\n\nAnd I'm feelin' like I'm at the top\nLivin' to the max now\nYeah, that's how, and I'ma say it that loud\nI'm steppin' up, I never back down, more focused on my background\nAnd the music and how my rap sounds, speak up, cut the track down\nGo till the end, I don't back out, stuck in the trap, figure that out\nAfter, I'll do the math now, it's garbage, take the trash out\nBut I'm here to stay till I pass out, blackout\n\nOkay, it's time to go fast, so sit back and relax, and just maybe you'll get it\nAbout time, but maybe you're mad I said it, you gon' pay attention, cash or credit?\nI have to let it go back a second, I have some lyrics in the past that I have to edit\nGo back in the middle of the track , mix it up and if you talk, then, nah, forget it\nWe moved on, walked past the exit, want you to come back and pass a message\nI know you never pack bags and trash, you left it, kinda sucks that sometimes we have to end it\nMoney- never am glad I spent it, if I ever had told you I'm mad, I meant it\nIf you ever feel bad or sad, accept it, think back to the track and  the rap that Ben did\nYeah, pretty obvious I'm killin' it, if this isn't my time, then maybe you need a syllabus\nI'm feelin' all the rhythm, you can tell that I am into this, voice is more powerful than a million instruments\nSuddenly, lyrics go demon, like it's somebody else, you all want me to go back because of you\nBut I'm never gonna level my endeavors to be better than the people that never had trust in me\n\nAnd I'm feelin' like I'm at the top\nLivin' to the max now\nYeah, that's how, and I'ma say it that loud\nI'm steppin' up, I never back down, more focused on my background\nAnd the music and how my rap sounds\n\nSpeak up, and they're messin' with the track now\nPeople tell me that I'm fallin' short, but I'm lookin' back at you when you're missin' all the cash now\nAnd I'm mad at the fact that I'm not in my right mind\nMeant to be a half-decent rapper, but I keep on sayin' all the wrong words at the right time\nLookin' at yourself, you never know what you might find, lookin' at the sky in the middle of the nighttime\nI find so much life, I wonder why I can't just find mine\nGot so many confusin' questions, so much knowledge, I can use some lessons\nI'm emergin' out with a new profession, I'ma do the best with my new perfection\nAnd I'm doin' it, I'm movin' onto this future shit\nThese hooligans are complete fools in that they just don't understand that I am through with it\nImprovin' it, I'm improvin' it, I got my brain, and I'm usin' it\nI'ma make it out alive when I'm playin' and takin' and makin' this cash, that I'm tearin' these tools to bits\nYou're clueless, ninety percent of y'all ignorant\nKeepin' your minds oh-so limited, get off your high horse, 'cause now it is time to figure it out\nSeemin' so close, I can picture it now, success in my drink, and I'm sippin' it now\nEnvisionin' deeper ambitions, and now, I'ma get to it, that is what livin's about"
