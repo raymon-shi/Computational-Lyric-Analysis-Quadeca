@@ -1,10 +1,5 @@
-## Progress presentation for COMM313 Final Project
+## Progress Update Presentation
 
-* This folder should contain the files for your project progress presentation.
+The folder contains the presentation that I gave for my progress update report. During that time, I had only performed a word frequency and n-gram frequency analysis, keyness analysis, and keyword in context concordance analysis for comparing Quadeca's earlier music to Quadeca's later music.
 
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. Share 1 or 2 interesting findings from your analysis so far.
-
-* Update this README file to describe the presentation.
+The next steps for my research at the time was to perform a sentiment analysis for Quadeca's two periods of music and also to start doing computational text lyrics analysis for the Billboard Top 50 Rap music.
